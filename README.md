@@ -10,11 +10,11 @@ Demo: http://www.gregjoy.co.uk/static/pages/SimpleCalenderWidget/
 
 To use this widget, include it and call:
 
-SimpleCalenderWidget.initialise(<Desired parent DOM element>, <optional event data>);
+SimpleCalenderWidget.initialise({Desired parent DOM element},{optional event data});
 
 You can set this event data afterwards if preferred with:
 
-SimpleCalenderWidget.setEventData(<event data>);
+SimpleCalenderWidget.setEventData({event data});
 
 The layout of the event data is:
 
