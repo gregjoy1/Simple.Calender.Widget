@@ -6,6 +6,8 @@ Avoided using JQuery simply because I really didn't need it...
 
 Anyone is free to contribute, and tell me the downfalls of this script (everyone was a noob once - I'm still one).
 
+Demo: http://www.gregjoy.co.uk/static/pages/SimpleCalenderWidget/
+
 To use this widget, include it and call:
 
 SimpleCalenderWidget.initialise(<Desired parent DOM element>, <optional event data>);
